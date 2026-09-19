@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "97659837bddb80691fc14af4",
+  "owner": "utdypakiksjoz",
+  "repo": "page-7bab8b23fb47b1a0f9fae936",
+  "title": "比特云(Bitcloud)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "7bab8b23fb47b1a0f9fae936",
+      "a": "比特云(Bitcloud)",
+      "b": "Clash Mi客户端快速下载",
+      "entity": "比特云(Bitcloud)",
+      "brand": "比特云(Bitcloud)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "471c5c245f64294e73a513e6dc4296bcd948c61d4981751a687d922b3718f22d",
+      "content": {
+        "primary_entity": "比特云(Bitcloud)",
+        "keyword1": "比特云(Bitcloud)",
+        "keyword2": "Clash Mi客户端快速下载",
+        "content": {
+          "AI_CLIENTS_INTRO": "Windows、macOS、Android、iOS 设备均可按系统挑选 Clash Mi 或同类客户端。",
+          "AI_CLIENTS_TITLE": "选择适合设备的客户端",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选定套餐，完成订阅配置即可开始使用。",
+          "AI_CLOSING_TITLE": "从合适套餐开始",
+          "AI_DESCRIPTION": "，面向需要稳定跨境连接的用户，提供基础版、旗舰版与团队版三档订阅选择。基础版每月 100GB 流量支持 3 台设备，旗舰版每月 300GB 支持 5 台设备并加入 IPLC 专线游戏加速，团队版每月 1000GB 支持 20 台设备。所有套餐均可在 Windows、macOS、Android 与 iOS 上搭配 Clash Mi 等客户端导入订阅使用，按年付费分别只需 ¥150、¥350 与 ¥850。",
+          "AI_FEATURES_INTRO": "从流量额度、同时在线设备数与专用线路三个角度理解套餐差异。",
+          "AI_FEATURES_TITLE": "套餐差异一目了然",
+          "AI_FEATURE_TEXT_1": "基础版 100GB 适合单人轻度使用，旗舰版 300GB 覆盖日常流媒体与办公，团队版 1000GB 面向多人共享场景。",
+          "AI_FEATURE_TITLE_1": "按流量选择",
+          "AI_FEATURE_TEXT_2": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台，按手头需要同时联网的手机、电脑数量挑选即可。",
+          "AI_FEATURE_TITLE_2": "按设备数量选择",
+          "AI_FEATURE_TEXT_3": "月付灵活起步，年付分别只需 ¥150、¥350 与 ¥850，长期使用可按年订阅减少续费次数。",
+          "AI_FEATURE_TITLE_3": "按周期订阅",
+          "AI_GUIDE_INTRO": "选服务、看适配、导入订阅，三步完成配置。",
+          "AI_GUIDE_TITLE": "配置订阅三步走",
+          "AI_HERO_INTRO": "比特云(Bitcloud)提供基础版、旗舰版与团队版三档海外加速订阅，覆盖每月 100GB 至 1000GB 流量与 3 至 20 台设备，并支持 Clash Mi 等客户端导入订阅，适合个人、家庭与小型团队按需选用。",
+          "AI_HERO_SUBTITLE": "三档套餐按流量与设备选择",
+          "AI_HIGHLIGHT_1": "月流量 100GB 至 1000GB 可选",
+          "AI_HIGHLIGHT_2": "单账号支持 3 至 20 台设备",
+          "AI_HIGHLIGHT_3": "旗舰版加入 IPLC 专线优化",
+          "AI_PLANS_INTRO": "对比月付与年付价格、流量额度和设备上限，选出与使用规模匹配的版本。",
+          "AI_PLANS_TITLE": "对比套餐再做决定",
+          "AI_STEP_TEXT_1": "根据流量需求与同时在线设备数，在基础版、旗舰版和团队版之间选定一款。",
+          "AI_STEP_TITLE_1": "选择服务版本",
+          "AI_STEP_TEXT_2": "查看所选套餐的适配说明，确认自己的设备系统、客户端类型和订阅周期。",
+          "AI_STEP_TITLE_2": "确认适配要求",
+          "AI_STEP_TEXT_3": "依照所选客户端文档导入订阅信息，完成配置后即可连接使用。",
+          "AI_STEP_TITLE_3": "导入订阅配置",
+          "AI_VISUAL_TITLE": "比特云套餐与设备选择",
+          "AI_FAQ_ANSWER_1": "基础版适配单人日常浏览与轻量流媒体，每月 100GB 流量和 3 台设备。旗舰版适合多设备流媒体与游戏加速，每月 300GB 流量、5 台设备并含 IPLC 专线。团队版提供每月 1000GB 流量和 20 台设备，适合团队协作或高带宽需求。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。设备数量依据套餐档位不同，可根据常用设备总数选择对应版本，避免同时在线时超出限制。",
+          "AI_FAQ_ANSWER_3": "比特云客户端可在 Windows、macOS、Android、iOS 以及部分路由器系统上运行，具体适配版本以客户端下载页提供的安装包为准。安装后按文档导入订阅链接即可。",
+          "AI_FAQ_ANSWER_4": "月付适合短期或试用需求，年付相对月付更优惠。基础版年付 ¥150/年，旗舰版 ¥350/年，团队版 ¥850/年，可按实际使用周期选择。",
+          "AI_FAQ_ANSWER_5": "订阅链接是客户端识别套餐并连接节点的凭证。在用户中心复制订阅地址后，粘贴到客户端的订阅导入位置，更新节点即可使用。请勿公开分享订阅链接。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "基础版、旗舰版和团队版有什么区别？",
+          "AI_FAQ_QUESTION_2": "一个套餐可以同时几台设备使用？",
+          "AI_FAQ_QUESTION_3": "比特云支持哪些客户端系统？",
+          "AI_FAQ_QUESTION_4": "月付和年付如何选择？",
+          "AI_FAQ_QUESTION_5": "订阅链接怎么导入客户端？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "d9f7667711375070e8a35e892a4b867fab71b039c2c20ae4f45b5b61a1f88091",
+    "sitemap.xml": "85f5e90d2429ca1a8ea45020d662735aa1487715d470257742e8016ebcbc2486",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "ea01e2125c3d7abf7e53fe17fa2f78daba667cab46d28a221abb4326e93a5feb"
+}
